@@ -10,3 +10,9 @@ O tema desta aplicação foi escolhido de maneira que possibilitasse a implement
 - Tratamento de exceções
 - Utilização e criação de anotações
 - Streams e processamento de ficheiros
+
+### Ferramentas utilizadas:
+- Visual Studio Code
+
+### Tecnologias utilizadas:
+- Linguagem Java
