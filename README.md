@@ -16,3 +16,5 @@ O tema desta aplicação foi escolhido de maneira que possibilitasse a implement
 
 ### Tecnologias utilizadas:
 - Linguagem Java
+
+### Resultados:
