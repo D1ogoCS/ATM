@@ -102,13 +102,13 @@ A aplicação possui um menu escondido dos utilizadores comuns, que serve para o
 
 *Introduzir o Id do Admin*
 
-![]()
+![Introduzir a palavra-passe do Admin](https://github.com/D1ogoCS/ATM/blob/main/imagens/inputPassword.png)
 
-**
+*Introduzir a palavra-passe do Admin*
 
-![]()
+![Menu do Admin](https://github.com/D1ogoCS/ATM/blob/main/imagens/menuAdmin.png)
 
-**
+*Menu do Admin*
 
 ![]()
 
