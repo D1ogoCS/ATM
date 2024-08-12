@@ -20,11 +20,19 @@ O tema desta aplicação foi escolhido de maneira que possibilitasse a implement
 ### Resultados:
 Quando a aplicação é executada, todos os dados presentes no ficheiro "Dados.txt" são lidos e armazenados numa ArrayList.
 
+![Ficheiro "Dados.txt"](https://github.com/D1ogoCS/ATM/blob/main/imagens/ficheiroDados.png)
+
+*Ficheiro "Dados.txt"*
+
 ![Menu inicial](https://github.com/D1ogoCS/ATM/blob/main/imagens/menu.png)
 
 *Menu inicial*
 
 Quando o utilizador escolhe a opção "1-Entrar na conta" e introduz o IBAN e o código PIN correto, é escrito no ficheiro "logins.txt" o IBAN introduzido e a data/hora.
+
+![Ficheiro "logins.txt"](https://github.com/D1ogoCS/ATM/blob/main/imagens/ficheiroLogins.png)
+
+*Ficheiro "logins.txt"*
 
 Quando o utilizador escolhe a opção "2-Sair", o conteúdo do ficheiro "Dados.txt" é apagado e é escrito todos os dados das contas, bem como os dados do titular da mesma (IBAN, saldo, PIN, tipo de conta, dia de nascimento, mês de nascimento, ano de nascimento, Objeto do tipo Utilizador, Objeto do tipo Conta).
 
@@ -71,6 +79,44 @@ Quando o utilizador escolhe a opção "2-Sair", o conteúdo do ficheiro "Dados.t
 ![Fatura de transferência](https://github.com/D1ogoCS/ATM/blob/main/imagens/faturaTransferencia.png)
 
 *Fatura de transferência*
+
+![Menu com outras operações](https://github.com/D1ogoCS/ATM/blob/main/imagens/outrasOperacoes.png)
+
+*Menu com outras operações*
+
+![Movimentos de conta](https://github.com/D1ogoCS/ATM/blob/main/imagens/movimentos%20de%20conta.png)
+
+*Movimentos de conta*
+
+![Informações da conta](https://github.com/D1ogoCS/ATM/blob/main/imagens/informacoesConta.png)
+
+*Informações da conta*
+
+A aplicação possui um menu escondido dos utilizadores comuns, que serve para os administradores fazerem a gestão do sistema. Para aceder a este menu é necessario digitar "9999" no menu inicial.
+
+![Acesso ao menu do administrador](https://github.com/D1ogoCS/ATM/blob/main/imagens/acessoMenuAdmin.png)
+
+*Acesso ao menu do administrador*
+
+![Introduzir o Id do Admin](Acesso ao menu do administrador)
+
+*Introduzir o Id do Admin*
+
+![]()
+
+**
+
+![]()
+
+**
+
+![]()
+
+**
+
+![]()
+
+**
 
 ![]()
 
