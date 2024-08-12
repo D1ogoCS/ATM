@@ -110,22 +110,30 @@ A aplicação possui um menu escondido dos utilizadores comuns, que serve para o
 
 *Menu do Admin*
 
-![]()
+![Menu de manutenção de contas](https://github.com/D1ogoCS/ATM/blob/main/imagens/menuManutencaoContas.png)
 
-**
+*Menu de manutenção de contas*
 
-![]()
+![Escolher tipo de conta](https://github.com/D1ogoCS/ATM/blob/main/imagens/tipoConta.png)
 
-**
+*Escolher tipo de conta*
 
-![]()
+![Tabela com as contas bancárias do sistema](https://github.com/D1ogoCS/ATM/blob/main/imagens/verificarContas.png)
 
-**
+*Tabela com as contas bancárias do sistema*
 
-![]()
+![Menu de manutenção de clientes](https://github.com/D1ogoCS/ATM/blob/main/imagens/menuManutencaoClientes.png)
 
-**
+*Menu de manutenção de clientes*
 
-![]()
+![Adicionar um novo cliente ao sistema](https://github.com/D1ogoCS/ATM/blob/main/imagens/adicionarCliente.png)
 
-**
+*Adicionar um novo cliente ao sistema*
+
+![Confirmar a adição de um novo cliente](https://github.com/D1ogoCS/ATM/blob/main/imagens/confirmarNovoCliente.png)
+
+*Confirmar a adição de um novo cliente*
+
+![Tabela com os clientes do sistema](https://github.com/D1ogoCS/ATM/blob/main/imagens/verificarClientes.png)
+
+*Tabela com os clientes do sistema*
